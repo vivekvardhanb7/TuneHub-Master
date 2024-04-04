@@ -57,7 +57,7 @@
 ## Contributing
 
 We welcome contributions to TuneHub! You can also open an issue if you have any suggestions or find any bugs. If you'd like to contribute, please fork the repository and submit a pull request or ping me 
- at vinaybabulingala@gmail.com
+ at vivekvardhanb7@gmail.com
 
 
 ---
